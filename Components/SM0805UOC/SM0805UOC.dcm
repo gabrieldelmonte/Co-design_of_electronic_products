@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM0805UOC
+D Standard LEDs - SMD Ultra Orange 625 nm Water Clear
+K
+F https://www.bivar.com/parts_content/Datasheets/SM0805UOC.pdf
+$ENDCMP
+#
+#End Doc Library
