@@ -40,7 +40,7 @@ This repository contains the complete design files and documentation for PBLE01 
 
 ```
 ├── Hardware/
-│   ├── Projeto_2022014552/ # Complete KiCad design files
+│   └── Projeto_2022014552/ # Complete KiCad design files
 ├── Documentation/
 │   ├── Manual.pdf          # Complete technical documentation
 │   ├── Design_Guidelines.pdf
